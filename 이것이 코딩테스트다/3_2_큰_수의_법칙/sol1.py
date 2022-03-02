@@ -1,6 +1,3 @@
-from re import L
-
-
 n, m, k = map(int, input().split())
 numbers = list(map(int, input().split()))
 
